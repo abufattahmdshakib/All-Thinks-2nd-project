@@ -38,6 +38,7 @@ header{
     background-color:rgb(241, 91, 34);
     color: aliceblue;
     margin-top:40px;
+    box-shadow: 5px 9px 0px 0px ;
 }
 
 /* /* main sectio*/
@@ -62,10 +63,12 @@ main section{
 .failures-title{
     font-family:"Work Sans";
     font-size: 76px;
+    color: rgb(241, 107, 11);
 }
 .failures-desription{
     font-size: 32px;
     margin-top: 30px;
+    color: rgb(80, 78, 78);
 }
  .contrary{
     font-size: 28px;
@@ -174,9 +177,9 @@ footer{
     text-align: left;
     gap:20px;
 }
-.from-contact ,input{
+.from-contact ,input {
     display: block;
-    color: rgb(243, 243, 243);
+    color: rgb(0, 0, 0);
     font-family: "Work Sans";
     font-size: 28px;
     font-weight: 600;
@@ -190,8 +193,10 @@ footer{
     font-family:"Work Sans";
     font-size: 25px;
     font-weight: 600;
-    color: black;
+    color: rgb(241, 107, 11);
     margin-top: 20px;
     padding: 20px;
     border: 1px;
+    border-radius:10px;
+    box-shadow: 5px 5px 0px 0px ;
 }
